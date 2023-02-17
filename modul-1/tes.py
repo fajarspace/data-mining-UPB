@@ -31,5 +31,17 @@
 #     jumlah = jumlah + tampung
 # print ('jumlah semuanya :', jumlah)
 
-for hitung in range(5):
-    print('Hitung :', hitung)
+# for hitung in range(5):
+#     print('Hitung :', hitung)
+
+# hitung = 0
+# while (hitung < 5):
+#     print('hitung :', hitung)
+#     hitung = hitung + 1
+
+i = 0
+n = int(input('Masukkan batas :'))
+for i in range(n):
+    if i%2 == 0:
+        print("Bilangan :", i)
+    i = i + 1
