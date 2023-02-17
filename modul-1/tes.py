@@ -1,11 +1,26 @@
-import pandas as pd
-import numpy as np
+# a = input('Masukkan nilai A :')
+# b = input('Masukkan nilai B :')
+# print(a,b)
 
-data = {
-    'apples': [3, 2, 0, 1], 
-    'oranges': [0, 3, 7, 2]
-}
+# print(1, 3, 5, 7)
+# output: 1 3 5 7
 
-purchases = pd.DataFrame(data)
+#percabangan
 
-print (purchases)
+# angka = 4
+# if angka > 0:
+#     print(angka, 'adalah bilangan positif')
+
+# bilangan = -1
+# if bilangan >= 0:
+#     print('Positif atau nol')
+# else:
+#     print('Bilangan negatif')
+
+# bilangan = 5.5
+# if bilangan > 0:
+#     print('Positif atau nol')
+# elif bilangan == 0:
+#     print('Nol')
+# else:
+#     print('Bilangan negatif')
