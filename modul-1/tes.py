@@ -24,3 +24,12 @@
 #     print('Nol')
 # else:
 #     print('Bilangan negatif')
+
+# nomor = [5, 5, 2]
+# jumlah = 0
+# for tampung in nomor:
+#     jumlah = jumlah + tampung
+# print ('jumlah semuanya :', jumlah)
+
+for hitung in range(5):
+    print('Hitung :', hitung)
