@@ -1,0 +1,24 @@
+MANGA :
+- dialog: anime ace - reguler
+- berpikir: animce ace - italic
+- teriak: anime ace - bold italic
+
+MANHUA/MANHWA: 
+- dialog: cc ask - reguler
+- berpikir: cc ask - italic
+- teriak: CCShoutOutBold
+----------------------------------------
+takut/gugup: gempita
+senang: Heart Warming
+ragu-ragu: CCGabrielBautista
+teriak kencang(?): cc savage/edo sz
+panel sistem: FriendorFoeTallBB
+dialog kecil: Strangeways Sample
+monster/suara creepy: Entrails BB
+narasi/balon kotak: Argone LC Black
+note: laCartoonerie
+
+
+
+
+

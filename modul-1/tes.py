@@ -39,9 +39,24 @@
 #     print('hitung :', hitung)
 #     hitung = hitung + 1
 
-i = 0
-n = int(input('Masukkan batas :'))
-for i in range(n):
-    if i%2 == 0:
-        print("Bilangan :", i)
-    i = i + 1
+# i = 0
+# n = int(input('Masukkan batas :'))
+# for i in range(n):
+#     if i%2 == 0:
+#         print("Bilangan :", i)
+#     i = i + 1
+
+# def sapa(nama):
+#     print('hai,' + nama +  '. Apa kabar?')
+#     return nama
+# sapa('Anna')
+
+def persegipanjang(panjang, lebar):
+    luas = panjang * lebar
+    print('Luasnya :', luas)
+    return luas
+
+print('menghitung luas persegi panjang')
+a = int(input('Masukkan panjang :'))
+b = int(input('Masukkan lebar :'))
+persegipanjang(a, b)
